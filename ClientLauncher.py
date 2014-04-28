@@ -2,6 +2,10 @@ import sys
 from Tkinter import Tk
 from Client import Client
 
+#This is the ClientLauncher code for Project 3 which is the client side of the streaming of the video
+#Created by Kavi Vasquez and Jonathan Thornton
+#Date: 4/28/2014
+
 if __name__ == "__main__":
 	try:
 		serverAddr = sys.argv[1]
